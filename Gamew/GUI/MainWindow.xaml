@@ -6,7 +6,5 @@
         xmlns:local="clr-namespace:GUI"
         mc:Ignorable="d"
         Title="Game" Height="600" Width="800">
-    <Grid>
-        
-    </Grid>
+    <local:GameControl></local:GameControl>
 </Window>

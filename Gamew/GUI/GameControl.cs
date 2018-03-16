@@ -10,7 +10,7 @@ namespace GUI
     /// <summary>
     /// A FrameworkElement segítségével tudunk különböző objektumokat, elemeket kirajzoltatni a képernyőre.
     /// </summary>
-    class GameControl: FrameworkElement
+    public class GameControl: FrameworkElement
     {
     }
 }
